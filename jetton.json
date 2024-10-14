@@ -1,8 +1,8 @@
 {
-  "address": "0:ff18ca260e1425fd2cfe43639939965ff16aa03a6b9994707717b88af56fb1a4",
   "name": "TestTon",
   "symbol": "TTN",
   "decimals": "9",
   "image": "https://cache.tonapi.io/imgproxy/SD5qAwfH36XJxbp-wbMcpSzz_tV1Yx4WBvpz5wQyi7Q/rs:fill:200:200:1/g:no/aHR0cHM6Ly9wcmlkY2xvdzY4LmdpdGh1Yi5pby90ZXN0LXRvbi9UVE4tbG9nby5wbmc.webp",
-  "description": "TestTon Token"
+  "description": "TestTon Token",
+  "total_supply": "200000000000000000"
 }
